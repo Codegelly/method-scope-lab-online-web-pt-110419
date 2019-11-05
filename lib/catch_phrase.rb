@@ -1,5 +1,4 @@
 
-def catch_phrase(status)
-   status = "rescued"
+def catch_phrase(phrase)
   puts phrase
 end
